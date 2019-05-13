@@ -1,0 +1,156 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	padding: 51px 0 0 0;
+	margin: 0;
+	font-size: 60px;
+	color: #fff;
+	width: 402px;
+}
+
+.check {
+	float: left;
+	margin-right: 11px;
+}
+
+.clearfix:after {
+	content: '';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+
+header {
+	background: #445162 no-repeat center top / cover;
+	height: 375px;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+.container {
+	width: 1280px;
+	margin: 0 auto;
+	clear: both;
+}
+
+.menu {
+	padding: 0;
+	margin: 51px 0 0 0;
+	display: block;
+	width: 460px;
+	float: left;
+}
+
+.menu li {
+	display: block;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 21px;
+	font-size: 20px;
+	color: #fff;
+}
+
+.GS {
+	float: right;
+}
+
+.GS2 {
+	float: right;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.section-two {
+	width: 653px;
+	display: block;
+	padding: 0;
+	float: left;
+}
+
+.section-two h2 {
+	font-size: 30px;
+	margin: 40px 0 0 0;
+	color: #445162;
+}
+
+.section-two p {
+	width: 650px;
+	font-size: 16px;
+}
+
+.T2 h2 {
+	font-size: 30px;
+	color: #445162;
+	padding: 50px 0 0 414px;
+
+}
+
+
+
+.First {
+	width: 50%;
+	float: left;
+}
+
+.Second {
+	width: 50%;
+	float: right;
+}
+
+.p1 img {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.p1 {
+	margin-bottom: 35px;
+}
+
+.p2 img {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.p2 {
+	margin-bottom: 35px;
+}
+
+.screen h2 {
+	margin-left: 545px;
+	font-size: 30px;
+	color: #445162;
+	margin-bottom: 35px;
+}
+
+.screen h3 {
+	font-size: 24px;
+	color: #445162;
+	margin: 0 0 0 15px;
+	float: left;
+}
+
+.screen img {
+	float: left;
+}
+
+.screen p {
+	margin: 0 0 0 15px;
+	font-size: 16px;
+	float: left;
+	width: 356px;
+	height: 108px;
+}
+
+.sp {
+	display: block;
+	float: left;
+}
